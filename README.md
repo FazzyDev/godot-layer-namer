@@ -4,6 +4,8 @@ A Godot 4 plugin that lets you name your collision and render layers,
 inspired by Unity's layer system. Instead of remembering which number 
 corresponds to which layer, just use names directly in your code.
 
+![LayerNamer](https://github.com/user-attachments/assets/1214c07f-8298-4d4a-8417-3cae898b56da)
+
 ## The Problem
 In Godot, layers are just numbers:
 collision_mask = 4 # What is layer 4 again...?
